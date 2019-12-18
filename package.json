@@ -1,0 +1,8 @@
+{
+  "name": "human-friendly-id",
+  "version": "0.0.0",
+  "description": "Generate unique ids that are human readable and always friendly",
+  "main": "index.js",
+  "author": "Ben Conolly <ben@thinkmill.com.au>",
+  "license": "MIT"
+}
