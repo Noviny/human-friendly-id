@@ -1,8 +1,9 @@
 {
   "name": "human-friendly-id",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Generate unique ids that are human readable and always friendly",
   "main": "index.js",
   "author": "Ben Conolly <ben@thinkmill.com.au>",
+  "repository": "https://github.com/Noviny/human-friendly-id",
   "license": "MIT"
 }
