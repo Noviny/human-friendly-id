@@ -1,4 +1,4 @@
-# Human Friendly Ids
+# Human Friendly Id
 
 This is very WIP and currently just for fun. Probably do not try and use this for anything.
 
